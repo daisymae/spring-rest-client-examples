@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Prof.",
+        "first": "Valerie",
+        "last": "Prohaska"
+      },
+      "location": {
+        "street": "6348 Jaquan Land Apt. 045",
+        "city": "Port Stefanchester",
+        "state": "Maryland",
+        "postcode": "09685-7807"
+      },
+      "email": "ghomenick@yahoo.com",
+      "login": {
+        "username": "erdman.clemmie",
+        "password": "gD)>?Is\"b`BR[{-DU",
+        "md5": "e36e5d7c1a2be0582d3925b89297a746",
+        "sha1": "7ab80b0787c393edb530efad4f77ba02f8e3c858",
+        "sha256": "c3fe0c5fa9f0fc33c0d9e79fcc1d2a0374ca1f9af100c5b50b7236f442cff57b"
+      },
+      "phone": "844-597-2931",
+      "job": {
+        "title": "Pewter Caster",
+        "company": "Gleichner, Bayer and Mann"
+      },
+      "billing": {
+        "card": {
+          "type": "Discover Card",
+          "number": "346987571333997",
+          "expiration_date": {
+            "date": "2020-11-24 12:08:32.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "iban": "GR837738842N949Z5JAVIABQ4YQ",
+          "swift": "QPCKQZDR"
+        }
+      },
+      "language": "gn",
+      "currency": "PGK"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Miss",
+        "first": "Katharina",
+        "last": "Hackett"
+      },
+      "location": {
+        "street": "6169 Savanna Station",
+        "city": "Arnulfoton",
+        "state": "Arizona",
+        "postcode": "42382-9101"
+      },
+      "email": "qkautzer@durgan.info",
+      "login": {
+        "username": "anna02",
+        "password": "K./_Y\\FH~CIyt",
+        "md5": "74ffc6f7df968750bea2bf856281a70d",
+        "sha1": "6212261b55b1447a33e39c2afb8946d844f67331",
+        "sha256": "2d9ca8015a5270666b55abcb9b24265901c13bf96744163ead594b6dd166efdc"
+      },
+      "phone": "(844) 416-8645",
+      "job": {
+        "title": "Courier",
+        "company": "Pagac, Rodriguez and Hamill"
+      },
+      "billing": {
+        "card": {
+          "type": "MasterCard",
+          "number": "4024007132950",
+          "expiration_date": {
+            "date": "2020-06-18 00:22:10.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "iban": "YT17356406827267726367409776",
+          "swift": "GPVTJR57"
+        }
+      },
+      "language": "io",
+      "currency": "AED"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs.",
+        "first": "Florida",
+        "last": "Daugherty"
+      },
+      "location": {
+        "street": "8308 Heather Summit",
+        "city": "Port Forrestville",
+        "state": "District of Columbia",
+        "postcode": "96334"
+      },
+      "email": "vwaters@yahoo.com",
+      "login": {
+        "username": "rmccullough",
+        "password": "Mzt&AhPdkX/)+C6AX",
+        "md5": "a3c6aa8b656c55956cbd1386646e61d9",
+        "sha1": "54d66ef5f553e28460792cc79090cd7cc9769a91",
+        "sha256": "e395e4b12052dd6c57950b08005d45b451b66e3bece70aafcc945f971ccaf993"
+      },
+      "phone": "1-866-602-4896",
+      "job": {
+        "title": "Tool Set-Up Operator",
+        "company": "Bahringer Ltd"
+      },
+      "billing": {
+        "card": {
+          "type": "MasterCard",
+          "number": "6011423071597197",
+          "expiration_date": {
+            "date": "2018-04-25 14:15:41.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "iban": "KP20776771797120985940376383",
+          "swift": "OFNCQOVWF53"
+        }
+      },
+      "language": "sq",
+      "currency": "CZK"
+    }
+  ]
+}
